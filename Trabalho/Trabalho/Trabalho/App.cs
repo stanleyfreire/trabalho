@@ -16,7 +16,7 @@ namespace Trabalho
             {
                 Content = new StackLayout
                 {
-                    VerticalOptions = LayoutOptions.Center,
+                    VerticalOptions = LayoutOptions.CenterAndExpand,
                     Children = {
                         new Label {
                             XAlign = TextAlignment.Center,
