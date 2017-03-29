@@ -20,7 +20,7 @@ namespace Trabalho
                     Children = {
                         new Label {
                             XAlign = TextAlignment.Center,
-                            Text = "Welcome to Xamarin Forms!"
+                            Text = "Testando alteracao!"
                         }
                     }
                 }
